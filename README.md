@@ -1,5 +1,12 @@
 # NWC204
-Full name: Nguyen Khac Toan
-Student code: HE200019
-Class: IA2002
-Subject: NWC204
+## GENERAL INFORMATION
+__Full name:__ Nguyen Khac Toan 
+
+__Student code:__ HE200019
+
+__Class:__ IA2002
+
+__Subject:__ NWC204
+
+## TABLE OF CONTENTS
+
