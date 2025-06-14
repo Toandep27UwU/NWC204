@@ -1,4 +1,4 @@
-# Lab - View Network Device MAC Addresses
+# Lab - View Network Device MAC Addresses  --- [file_pkt](lab7_2_7.pkt)
 ## Part 1: Configure Devices and Verify Connectivity
 ### Step 1: Cable the network as shown in the topology
 a. Attack the devices shown in the topology and cable as necessary
