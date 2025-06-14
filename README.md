@@ -17,3 +17,7 @@ __Subject:__ NWC204
 [Lab 3: Use Wireshark to View Network Traffic](https://github.com/Toandep27UwU/NWC204/tree/main/Lab3%3A%20Use%20Wireshark%20to%20View%20Network%20Traffic)
 
 [Lab 7.1.6: Use Wireshark to Examine Ethernet Frames Topology](https://github.com/Toandep27UwU/NWC204/tree/main/Lab7.1.6)
+
+[Lab 7.2.7: ](https://github.com/Toandep27UwU/NWC204/tree/main/Lab7.2.7)
+
+[Lab 7.3.7: ](https://github.com/Toandep27UwU/NWC204/tree/main/Lab7.3.7)
