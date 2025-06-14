@@ -33,10 +33,10 @@
 - 4c:12:e8:14:87:10
 
 **4. What is the Vendor ID (OUI) of the Source NIC in the ARP reply?**
-- 28:c5:d2
+- Intel Corporate
 
 **5. What portion of the MAC address is the OUI?**
-- 28:c5:d2
+- The first 3 octets of the MAC address indicate the OUI.
 
 **6. What is the NIC serial number of the source?**
 - 11:85:87
